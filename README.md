@@ -1,6 +1,7 @@
 # pdfProcesser
 
 pdf --remove non-letters including formulas, pictures and other symbols which can not be recognized by txt
+
 latex --remove formulas, citations, latex keywords
 
 [Usage]
